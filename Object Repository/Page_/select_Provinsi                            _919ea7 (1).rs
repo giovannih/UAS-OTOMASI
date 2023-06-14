@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Provinsi                            _919ea7 (1)</name>
+   <tag></tag>
+   <elementGuidId>22ee2d4f-46cf-4799-816b-3bafe0d4e723</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#provinsi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='provinsi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>304d43b2-4f24-4bc6-bb68-780743270094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>91b50ee1-336c-436e-99f2-a7adb1faa8b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>provinsi</value>
+      <webElementGuid>5ec23621-ce1f-4590-abc8-3cfb661a483c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>provinsi</value>
+      <webElementGuid>44711979-c333-4356-b6a2-81670004e835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                     Provinsi 
+                                    ACEHBALIBANTENBENGKULUDI YOGYAKARTADKI JAKARTAGORONTALOJAMBIJAWA BARATJAWA TENGAHJAWA TIMURKALIMANTAN BARATKALIMANTAN SELATANKALIMANTAN TENGAHKALIMANTAN TIMURKALIMANTAN UTARAKEPULAUAN BANGKA BELITUNGKEPULAUAN RIAULAMPUNGMALUKUMALUKU UTARANUSA TENGGARA BARATNUSA TENGGARA TIMURPAPUAPAPUA BARATRIAUSULAWESI BARATSULAWESI SELATANSULAWESI TENGAHSULAWESI TENGGARASULAWESI UTARASUMATERA BARATSUMATERA SELATANSUMATERA UTARA 
+                                </value>
+      <webElementGuid>b6c103fb-c227-4561-93b7-7a4ba60ffa64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;provinsi&quot;)</value>
+      <webElementGuid>a781037d-f0b6-40e2-a986-a4740a69f8c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='provinsi']</value>
+      <webElementGuid>61bd701c-6684-496c-bab9-af320e217ec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='demoForm']/div[6]/select</value>
+      <webElementGuid>10a8a75c-121a-4e0a-bca2-99e6d9c3b612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provinsi *'])[1]/following::select[1]</value>
+      <webElementGuid>21af7789-60c4-4f88-a392-df0dccbcdeb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Petani *'])[1]/following::select[1]</value>
+      <webElementGuid>86503505-ab1a-4c6d-9229-03d4d3aee748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kabupaten *'])[1]/preceding::select[1]</value>
+      <webElementGuid>f1cdb4b9-6dcf-4da7-9fd5-77afe3b233b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kecamatan *'])[1]/preceding::select[2]</value>
+      <webElementGuid>531e8654-46a4-4a98-a74b-2dfb8807360b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>849d33aa-32e7-403c-9aba-6ddd9f3d7f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'provinsi' and @name = 'provinsi' and (text() = '
+                                     Provinsi 
+                                    ACEHBALIBANTENBENGKULUDI YOGYAKARTADKI JAKARTAGORONTALOJAMBIJAWA BARATJAWA TENGAHJAWA TIMURKALIMANTAN BARATKALIMANTAN SELATANKALIMANTAN TENGAHKALIMANTAN TIMURKALIMANTAN UTARAKEPULAUAN BANGKA BELITUNGKEPULAUAN RIAULAMPUNGMALUKUMALUKU UTARANUSA TENGGARA BARATNUSA TENGGARA TIMURPAPUAPAPUA BARATRIAUSULAWESI BARATSULAWESI SELATANSULAWESI TENGAHSULAWESI TENGGARASULAWESI UTARASUMATERA BARATSUMATERA SELATANSUMATERA UTARA 
+                                ' or . = '
+                                     Provinsi 
+                                    ACEHBALIBANTENBENGKULUDI YOGYAKARTADKI JAKARTAGORONTALOJAMBIJAWA BARATJAWA TENGAHJAWA TIMURKALIMANTAN BARATKALIMANTAN SELATANKALIMANTAN TENGAHKALIMANTAN TIMURKALIMANTAN UTARAKEPULAUAN BANGKA BELITUNGKEPULAUAN RIAULAMPUNGMALUKUMALUKU UTARANUSA TENGGARA BARATNUSA TENGGARA TIMURPAPUAPAPUA BARATRIAUSULAWESI BARATSULAWESI SELATANSULAWESI TENGAHSULAWESI TENGGARASULAWESI UTARASUMATERA BARATSUMATERA SELATANSUMATERA UTARA 
+                                ')]</value>
+      <webElementGuid>d21cc760-c345-47f6-bcce-b6b9d31828bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
